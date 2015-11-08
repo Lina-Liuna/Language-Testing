@@ -15,5 +15,3 @@ Child1.x = 2
 print Parent.x, Child1.x, Child2.x
 Parent.x = 3
 print Parent.x, Child1.x, Child2.x
-
-
